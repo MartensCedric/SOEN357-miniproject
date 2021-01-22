@@ -1,5 +1,5 @@
 ## Understanding the problem
-
+While experts predicted for decades that a global pandemic was imminent [citation required], most were taken by surprise at how fast COVID-19 changed our lives in 2020. The quarantines, curfews and stay-at-home orders negatively impacted the physical and mental health of millions [citation required]. It is our mission to create a superapp that will physically and mentally benefit the user.
 
 ## Research
 ### Research on superapps
