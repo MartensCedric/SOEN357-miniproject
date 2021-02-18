@@ -6,3 +6,5 @@ It is evident that mobile phones and social media have known a dramatic surge in
 
 # Our Solution
 Our solution is to introduce ScreenSardine, a mobile application designed as a super app, that aims to bring balance in our users’ digital consumption while also promoting habits to improve our users’ physical and mental health. To do so, ScreenSardine incorporates a myriad of features such as a macromolecule tracker, a GPS running tracker, a workout routine platform, a meditation guide platform, a sleep tracker, and, most importantly, a screen time usage tracker. ScreenSardine strives to provide its users everything health related, while gamifying the development of positive habits to create an extra level of engagement and feedback.
+
+![alt text](https://raw.githubusercontent.com/MartensCedric/SOEN357-miniproject/gh-pages/images/empathy_map.png "Empathy Map")
