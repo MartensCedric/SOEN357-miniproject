@@ -1,8 +1,3 @@
 theme: jekyll-theme-slate
-layout: post
-title: ScreenSardine
-plugins:
-  - jekyll-optional-front-matter
-
-optional_front_matter:
-  remove_originals: true
+name: ScreenSardine
+title: null
