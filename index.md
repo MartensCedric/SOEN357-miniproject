@@ -1,31 +1,8 @@
-## Understanding the problem
-While experts predicted for decades that a global pandemic was imminent [citation required], most were taken by surprise at how fast COVID-19 changed our lives in 2020. The quarantines, curfews and stay-at-home orders negatively impacted the physical and mental health of millions [citation required]. It is our mission to create a superapp that will physically and mentally benefit the user.
+# Introduction
+With major strides in software and hardware development, computers in general have become ubiquitous in everyday life, and digital consumption has increased accordingly. ScreenSardine’s purpose is to undo this trend, and to serve as a tool to rid users of their dependence on their mobile devices while helping them invest in their greatest asset: their health.
 
-## Research
-### Research on superapps
-### Research on health apps
+# Understanding the Problem
+It is evident that mobile phones and social media have known a dramatic surge in adoption and have changed the way people connect with one another. However, screen time usage is now trending at an all time high, and its nefarious effects are beginning to show. In fact, according to RescueTime, the average person spends over three hours per day on their screen, and according to The Guardian, the average person checks their phone 58 times per day. This phenomenon of digital overconsumption is believed to be exacerbating an existing physical and mental health crisis. For instance, studies have shown that among many other problems such as anxiety and depression, prolonged screen time usage can also lead to obesity, which has already seen a rise from 9.8% to 29.8% among Canadian adults since 1975. Therefore, as our lives continue to trend towards digitalization, it is more important than ever that we put our phones down, and reprioritize our health and well-being. 
 
-## Surveys
-NOTE: should leave area for general remarks for quotes.
-
-## Fursonas
-### User Goal
-### User Journey
-## StoryBoard
-## Design
-
-### User Flow Diagram
-### Sketches
-### Inspiration Board
-### Colour Palette
-### Typography
-### Naming and Logo
-### Final Design
-### Onboarding
-#### Feature 1
-#### Feature 2
-### Demo
-## Conclusion
-### Next Steps
-### Final Thoughts
-### References
+# Our Solution
+Our solution is to introduce ScreenSardine, a mobile application designed as a super app, that aims to bring balance in our users’ digital consumption while also promoting habits to improve our users’ physical and mental health. To do so, ScreenSardine incorporates a myriad of features such as a macromolecule tracker, a GPS running tracker, a workout routine platform, a meditation guide platform, a sleep tracker, and, most importantly, a screen time usage tracker. ScreenSardine strives to provide its users everything health related, while gamifying the development of positive habits to create an extra level of engagement and feedback.
