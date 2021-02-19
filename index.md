@@ -48,19 +48,44 @@ The first persona is named Amelie Boisvert.  She represents our younger demograp
 ### Scott Peterson | Unemployed
 The second persona is named Scott Peterson.  He depicts someone who is severely screen addicted: their addiction being so serious it is a major contributing factor to his declining mental and physical health.  Gamification has made Scott addicted to playing video games.  Ironically, ScreenSardine will use this very thing to wean him off screen-use, and to improve his overall health.
 
-![alt text](https://raw.githubusercontent.com/MartensCedric/SOEN357-miniproject/gh-pages/images/persona_amelie.png "Persona Scott")
+![alt text](https://raw.githubusercontent.com/MartensCedric/SOEN357-miniproject/gh-pages/images/persona_scott.png "Persona Scott")
 
 ### Thomas Brown | Manager
 The final persona is named Thomas Brown. He also represents users who have mental and physical health problems.  The key difference being that these issues are deeper-seeded and are not directly caused by screen-use though he is a heavy screen user.  The main attraction ScreenSardine will present for this user group is that it is a Super App.  It nicely packages  tools to help with improving a multitude of aspects of personal health.
 
-![alt text](https://raw.githubusercontent.com/MartensCedric/SOEN357-miniproject/gh-pages/images/persona_amelie.png "Persona Thomas")
+![alt text](https://raw.githubusercontent.com/MartensCedric/SOEN357-miniproject/gh-pages/images/persona_thomas.png "Persona Thomas")
 
 ## Empathy Map
 ![alt text](https://raw.githubusercontent.com/MartensCedric/SOEN357-miniproject/gh-pages/images/empathy_map.png "Empathy Map")
+The empathy map shows the disparity between the users thoughts and actions. They want to sleep early, they want to be in shape, but they simply procrastinate, idle and pretend to be busy to others. This is a negative emotional strain that creates stress.
+
+## Journey Map
+The following journey map demonstrates the process of how one of our archetypes, Amélie Boisvert from having unhealthy screen time habits to adopting ScreenSardine, and shows how they feel and what they are thinking throughout the way. The journey map illustrates a possible user’s motivation for wanting to adopt the ScreenSardine into their daily routine.
+![alt text](https://raw.githubusercontent.com/MartensCedric/SOEN357-miniproject/gh-pages/images/journey_map.png "Journey Map")
 
 ## Storyboard
+We created a storyboard so we could work through our imagined character development story-arc of our users. This allowed us to experiment with the way users would interact with the application and elaborate on how these interactions would affect them. For example, when their fish grows they feel motivated, when their fish die they feel regret, and when their fish reach adulthood they feel pride.
 ![alt text](https://raw.githubusercontent.com/MartensCedric/SOEN357-miniproject/gh-pages/images/storyboard.jpg "Storyboard")
 
+# Design Process
+## User flow diagram
+The user flow diagram visually represents the actual functionality of the application.  The bulk of the diagram shows the goal creation flow.  While the items on the right represent the alternate flow of viewing your goals, looking at a detailed view of a specific goal, and accessing the ‘goal activity page’ for a certain activity.  The ‘goal activity page’ is a specially designed page to help accomplish this task.  So for a meditation goal it would be a meditation timer, for a fitness goal it would be an interactive exercise routine builder, etc…  We intentionally designed the application to only have two flows, and to have the fish tank be the main view.
+
+![alt text](https://raw.githubusercontent.com/MartensCedric/SOEN357-miniproject/gh-pages/images/design_flow.jpg "User flow")
+
+## Sketches
+The following sketches were designed as a very rough draft of the user interface during the design process, and were used as a guide to indicate the functionality of each of the main pages. Given that ScreenSardine is a super app in which different goals lead to different features, for the sake of brevity, only the meditation goal was modeled for the sketches and following prototypes. 
+
+![alt text](https://raw.githubusercontent.com/MartensCedric/SOEN357-miniproject/gh-pages/images/sketches.png "Sketches")
+
+## Wireframes
+
+![alt text](https://raw.githubusercontent.com/MartensCedric/SOEN357-miniproject/gh-pages/images/wireframes.jpg "Wireframes")
+
+## Color Palette
+
+## Final Design 
+# Demo
 
 # References
 
