@@ -28,10 +28,33 @@ Despite using their phones a lot, 75% of the respondents think their phone usage
 It has already been shown that screen usage time before bed is detrimental to sleep [SOURCE : https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5839336/ (to be formatted)]. Many social media apps also exhibit hyper addicting features to maximize the consumption of contents [source (find one)]. While most of this information is already known, people keep using screens excessively even if they are properly informed of the issues regarding their health.
 
 The following survey results show that the respondents want to exercise more, eat healthier and are motivated to pursue a healthier lifestyle.
+
+![alt text](https://raw.githubusercontent.com/MartensCedric/SOEN357-miniproject/gh-pages/images/survey_healthy_lifestyle.png "Survey Healthy Lifestyle")
+![alt text](https://raw.githubusercontent.com/MartensCedric/SOEN357-miniproject/gh-pages/images/survey_exercise.png "Survey Exercise")
+![alt text](https://raw.githubusercontent.com/MartensCedric/SOEN357-miniproject/gh-pages/images/survey_eat_healthy.png "Survey Eat Healthy")
 ### Survey Conclusion
+It is clear that the respondent thinks that their phone is detrimental, yet they have shown to use it frequently. They have also responded that they want to eat better, exercise more and are motivated to live better. This shows that there is a market for phone addicted users that desire to improve their condition.
 
 
 # Research Analysis
+## Personas
+We drew inspiration from our survey results to create three personas.  Each persona represents a different archetypal user who has unique goals, frustrations, and backgrounds.  We created personas in order to build a deep understanding of our users that takes into account the complexities and intricacies that characterize real people.
+
+### Amelie Boisvert | Influence
+The first persona is named Amelie Boisvert.  She represents our younger demographic who is likely technically-inclined, but also very probably screen addicted.  Often screen use is an important means of socialization, self-expression, relaxation, working, etc…  So reducing screen usage can entail having to migrate to doing things “the old fashioned way” or to simply not doing them at all which can both be difficult.  But hey… “There's an app for that!”.  ScreenSardine presents the far less intimidating option of using your screen intelligently to break free from screen addiction.
+
+![alt text](https://raw.githubusercontent.com/MartensCedric/SOEN357-miniproject/gh-pages/images/persona_amelie.png "Persona Amelie")
+
+### Scott Peterson | Unemployed
+The second persona is named Scott Peterson.  He depicts someone who is severely screen addicted: their addiction being so serious it is a major contributing factor to his declining mental and physical health.  Gamification has made Scott addicted to playing video games.  Ironically, ScreenSardine will use this very thing to wean him off screen-use, and to improve his overall health.
+
+![alt text](https://raw.githubusercontent.com/MartensCedric/SOEN357-miniproject/gh-pages/images/persona_amelie.png "Persona Scott")
+
+### Thomas Brown | Manager
+The final persona is named Thomas Brown. He also represents users who have mental and physical health problems.  The key difference being that these issues are deeper-seeded and are not directly caused by screen-use though he is a heavy screen user.  The main attraction ScreenSardine will present for this user group is that it is a Super App.  It nicely packages  tools to help with improving a multitude of aspects of personal health.
+
+![alt text](https://raw.githubusercontent.com/MartensCedric/SOEN357-miniproject/gh-pages/images/persona_amelie.png "Persona Thomas")
+
 ## Empathy Map
 ![alt text](https://raw.githubusercontent.com/MartensCedric/SOEN357-miniproject/gh-pages/images/empathy_map.png "Empathy Map")
 
