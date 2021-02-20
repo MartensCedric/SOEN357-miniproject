@@ -52,7 +52,7 @@ We drew inspiration from our survey results to create three personas. Each perso
 
 ### Amelie Boisvert | Influencer
 
-The first persona is named Amelie Boisvert. She represents our younger demographic who is likely technically-inclined, but also very probably screen addicted. Often screen use is an important means of socialization, self-expression, relaxation, working, etc… So reducing screen usage can entail having to migrate to doing things “the old fashioned way” or to simply not doing them at all which can both be difficult. But hey… “There's an app for that!”. ScreenSardine presents the far less intimidating option of using your screen intelligently to break free from screen addiction.
+The first persona is named Amelie Boisvert. She represents our younger demographic who is likely technologically-inclined, but also very probably screen addicted. Often screen use is an important means of socialization, self-expression, relaxation, working, etc… So reducing screen usage can entail having to migrate to doing things “the old fashioned way” or to simply not doing them at all which can both be difficult. But hey… “There's an app for that!”. ScreenSardine presents the far less intimidating option of using your screen intelligently to break free from screen addiction.
 
 ![alt text](https://raw.githubusercontent.com/MartensCedric/SOEN357-miniproject/gh-pages/images/persona_amelie.png "Persona Amelie")
 
