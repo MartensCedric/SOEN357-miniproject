@@ -84,6 +84,16 @@ The following sketches were designed as a very rough draft of the user interface
 
 ## Color Palette
 
+### Initial Colors
+Colors were chosen to evoke a calming aquatic atmosphere. Initially, these colors were selected.
+![alt text](https://raw.githubusercontent.com/MartensCedric/SOEN357-miniproject/gh-pages/images/colors_old.png "Old colors")
+
+### Final colors
+The second color was changed to create a better contrast. We believe that the comfort and calmness of the colors remain unchanged.
+![alt text](https://raw.githubusercontent.com/MartensCedric/SOEN357-miniproject/gh-pages/images/colors_new.jpg "New colors")
+
+## Typography
+
 ## Final Design 
 # Demo
 
