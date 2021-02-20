@@ -90,7 +90,7 @@ Colors were chosen to evoke a calming aquatic atmosphere. Initially, these color
 
 ### Final colors
 The second color was changed to create a better contrast. We believe that the comfort and calmness of the colors remain unchanged.
-![alt text](https://raw.githubusercontent.com/MartensCedric/SOEN357-miniproject/gh-pages/images/colors_new.jpg "New colors")
+![alt text](https://raw.githubusercontent.com/MartensCedric/SOEN357-miniproject/gh-pages/images/colors_new.png "New colors")
 
 ## Typography
 
