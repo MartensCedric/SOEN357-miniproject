@@ -18,7 +18,7 @@ When a user enters the app and logs into their account, they are greeted by thei
 
 ## Market Research
 
-There already exist a multitude of applications with the deliberate and specific purpose of reducing or controlling screen usage. Certain apps take a hardline approach to accomplish this. Freedom, for example, allows users to select applications and websites that are deemed unproductive they wish to block during the day. ZenScreen is another application that can be used to set daily phone usage limits or force users to spend 20 minutes off the phone for every 10 minutes spent on it. Other apps use psychological manipulation to reduce screen usage time. Moment is an application that displays analytics of screen usage time, what apps you used as well as provide guided coaching. BreakFree is another app that displays screen usage statistics but also gives users ‘Addiction Scores’. In researching superapps we discovered maybe were related to transport and food delivery like Yandex Go, and Rappi, but nothing currently on the market resembles a superapp with the sole purpose of improving the personal health of its users. [source: https://agiletech.vn/super-apps-examples-review-2020/ ]
+There already exist a multitude of applications with the deliberate and specific purpose of reducing or controlling screen usage. Certain apps take a hardline approach to accomplish this. Freedom, for example, allows users to select applications and websites that are deemed unproductive they wish to block during the day. ZenScreen is another application that can be used to set daily phone usage limits or force users to spend 20 minutes off the phone for every 10 minutes spent on it. Other apps use psychological manipulation to reduce screen usage time. Moment is an application that displays analytics of screen usage time, what apps you used as well as provide guided coaching. BreakFree is another app that displays screen usage statistics but also gives users ‘Addiction Scores’. In researching superapps we discovered maybe were related to transport and food delivery like Yandex Go, and Rappi, but nothing currently on the market resembles a superapp with the sole purpose of improving the personal health of its users [2]. 
 
 ## User Research
 
@@ -31,7 +31,7 @@ Despite using their phones a lot, 75% of the respondents think their phone usage
 
 ![alt text](https://raw.githubusercontent.com/MartensCedric/SOEN357-miniproject/gh-pages/images/survey_phone_productivity.png "Survey Phone Productivity")
 
-It has already been shown that screen usage time before bed is detrimental to sleep [SOURCE : https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5839336/]. Many social media apps also exhibit hyper addicting features to maximize the consumption of contents [source (find one)]. While most of this information is already known, people keep using screens excessively even if they are properly informed of the issues regarding their health.
+It has already been shown that screen usage time before bed is detrimental to sleep [3]. Many social media apps also exhibit hyper addicting features to maximize the consumption of contents [4]. While most of this information is already known, people keep using screens excessively even if they are properly informed of the issues regarding their health.
 The following survey results show that the respondents want to exercise more, eat healthier and are motivated to pursue a healthier lifestyle.
 
 ![alt text](https://raw.githubusercontent.com/MartensCedric/SOEN357-miniproject/gh-pages/images/survey_healthy_lifestyle.png "Survey Healthy Lifestyle")
@@ -52,7 +52,7 @@ We drew inspiration from our survey results to create three personas. Each perso
 
 ### Amelie Boisvert | Influencer
 
-The first persona is named Amelie Boisvert. She represents our younger demographic who is likely technically-inclined, but also very probably screen addicted. Often screen use is an important means of socialization, self-expression, relaxation, working, etc… So reducing screen usage can entail having to migrate to doing things “the old fashioned way” or to simply not doing them at all which can both be difficult. But hey… “There's an app for that!”. ScreenSardine presents the far less intimidating option of using your screen intelligently to break free from screen addiction.
+The first persona is named Amelie Boisvert. She represents our younger demographic who is likely technologically-inclined, but also very probably screen addicted. Often screen use is an important means of socialization, self-expression, relaxation, working, etc… So reducing screen usage can entail having to migrate to doing things “the old fashioned way” or to simply not doing them at all which can both be difficult. But hey… “There's an app for that!”. ScreenSardine presents the far less intimidating option of using your screen intelligently to break free from screen addiction.
 
 ![alt text](https://raw.githubusercontent.com/MartensCedric/SOEN357-miniproject/gh-pages/images/persona_amelie.png "Persona Amelie")
 
@@ -192,10 +192,14 @@ Our understanding of the problem and our research indicates that a market in nee
 
 # References
 
-[1] Ritchie, H. and Roser, M., 2021. Obesity. [online] Our World in Data. Available at: https://ourworldindata.org/obesity [Accessed 28 January 2021].
+[1] Ritchie, H. and Roser, M., 2021. Obesity. [online] Our World in Data. Available at: https://ourworldindata.org/obesity [Accessed 28-Jan-2021].
 
-[2] https://jamanetwork.com/journals/jama/article-abstract/2731178
+[2] “Top 8 Successful Super Apps Examples In The World 2020,” AgileTech Vietnam, 15-Dec-2020. [Online]. Available: https://agiletech.vn/super-apps-examples-review-2020/. [Accessed: 10-Feb-2021].
 
-[3] https://www.theladders.com/career-advice/11-apps-that-will-help-you-reduce-your-screen-time
+[3] L. Hale, G. W. Kirschen, M. K. LeBourgeois, M. Gradisar, M. M. Garrison, H. Montgomery-Downs, H. Kirschen, S. M. McHale, A.-M. Chang, and O. M. Buxton, “Youth Screen Media Habits and Sleep: Sleep-Friendly Screen Behavior Recommendations for Clinicians, Educators, and Parents,” Child and adolescent psychiatric clinics of North America, Apr-2018. [Online]. Available: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5839336/. [Accessed: 12-Feb-2021]. 
 
-[4] https://elitecontentmarketer.com/screen-time-statistics/#:~:text=A%20study%20of%2011k%20RescueTime,minutes%20on%20their%20mobile%20devices.
+[4] C. Montag, B. Lachmann, M. Herrlich, and K. Zweig, “Addictive Features of Social Media/Messenger Platforms and Freemium Games against the Background of Psychological and Economic Theories,” International journal of environmental research and public health, 23-Jul-2019. [Online]. Available: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6679162/. [Accessed: 14-Feb-2021]. 
+
+[5] L. Yang, C. Cao, E. D. Kantor, L. H. Nguyen, X. Zheng, Y. Park, E. L. Giovannucci, C. E. Matthews, G. A. Colditz, and Y. Cao, “Trends in Sedentary Behavior Among the US Population, 2001-2016,” JAMA, vol. 321, no. 16, p. 1587, 2019. 
+
+[6] H. Wojtowicz, “11 apps that will help you reduce your screen time,” Ladders, 18-Oct-2019. [Online]. Available: https://www.theladders.com/career-advice/11-apps-that-will-help-you-reduce-your-screen-time. [Accessed: 11-Feb-2021]. 
