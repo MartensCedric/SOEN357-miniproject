@@ -132,57 +132,59 @@ When selecting the font, we wanted to ensure cognitive fluency for the users. We
 
 Upon launching the application, the user is met with the sign in page. If the user does not yet have an account, they can access the sign up page and register. If the user already has an account and is already signed in, they are redirected to the applications dashboard.
 
-![alt text](https://raw.githubusercontent.com/MartensCedric/SOEN357-miniproject/gh-pages/images/sign_in.png "Sign In Page")
+![Sign In Page](https://raw.githubusercontent.com/MartensCedric/SOEN357-miniproject/gh-pages/images/sign_in.png)
 
-![alt text](https://raw.githubusercontent.com/MartensCedric/SOEN357-miniproject/gh-pages/images/sign_up.png "Sign Up Page")
+![Sign Up Page](https://raw.githubusercontent.com/MartensCedric/SOEN357-miniproject/gh-pages/images/sign_up.png)
 
 ### Fish Tank
 
 The application’s dashboard is the user’s fish tank. Here, a user will be able to see all the different types of fish that they have collected over time. At the top of the page, we chose to also provide the user the ability to view their fish tank from different time frames. This lets the user track their progress through different periods visually. For the final design, it was decided to keep the navigation bar at the bottom of the page for reachability purposes.
 
-![alt text](https://raw.githubusercontent.com/MartensCedric/SOEN357-miniproject/gh-pages/images/tank.png "Tank Page")
+![Tank Page](https://raw.githubusercontent.com/MartensCedric/SOEN357-miniproject/gh-pages/images/tank.png)
 
 ### Profile
 
 The following is a simple profile page containing options for a user to set their personal information, their notification configurations, and their other settings. The profile page also allows the user to log out of their account.
 
-![alt text](https://raw.githubusercontent.com/MartensCedric/SOEN357-miniproject/gh-pages/images/profile.png "Profile Page")
+![Profile Page](https://raw.githubusercontent.com/MartensCedric/SOEN357-miniproject/gh-pages/images/profile.png)
 
 ### Goals
 
 The goals page is where the user can view the list of their current goals. Each goal illustrates what type of fish they are expected to collect upon completion, the details of the goal, as well as the user’s progression towards completing the goal. At the bottom, there is a button for the user to add a new goal.
 
-![alt text](https://raw.githubusercontent.com/MartensCedric/SOEN357-miniproject/gh-pages/images/goals.png "Goals Page")
+![Goals Page](https://raw.githubusercontent.com/MartensCedric/SOEN357-miniproject/gh-pages/images/goals.png)
 
 ### New Goal
 
 The new goal page lets the user define and save a new goal. To do so, the user must simply select the goal type and the goal duration. Once saved, a new goal will appear in the goals page along with the fish this new goal is expected to deliver.
 
-![alt text](https://raw.githubusercontent.com/MartensCedric/SOEN357-miniproject/gh-pages/images/new_goal.png "New Goal Page")
+![New Goal Page](https://raw.githubusercontent.com/MartensCedric/SOEN357-miniproject/gh-pages/images/new_goal.png)
 
 ### Specific Goal
 
 From the goals page, a user can select a specific goal from the list which will navigate the application to a page dedicated to that specific goal. This page provides additional information about the goal, such as the goal’s daily progression. Most importantly, from here the user can access the activity that allows them to participate in the goal. In the following example, the goal is related to meditation. Therefore, from this page, the user can access the meditation platform.
 
-![alt text](https://raw.githubusercontent.com/MartensCedric/SOEN357-miniproject/gh-pages/images/activity_goal.png "Goal Activity Page")
+![Activity Goal Page](https://raw.githubusercontent.com/MartensCedric/SOEN357-miniproject/gh-pages/images/activity_goal.png)
 
 ### Goal Activity Page - Meditate
 
 The following is a prototype of the meditate page, where a user can listen to audio files of meditation guides.
 
+![Meditate Page](https://raw.githubusercontent.com/MartensCedric/SOEN357-miniproject/gh-pages/images/meditate.png)
+
 <<<<<<< HEAD
+
 # Demos
 
 ## Demo Video
 
 ## Live Demo
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FCowawrGre4rSoAMYQtp9NT%2FScreenSardine%3Fnode-id%3D78%253A393%26scaling%3Dscale-down" allowfullscreen></iframe>
-=======
-![alt text](https://raw.githubusercontent.com/MartensCedric/SOEN357-miniproject/gh-pages/images/meditate.png "Meditate Page")
+# <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FCowawrGre4rSoAMYQtp9NT%2FScreenSardine%3Fnode-id%3D78%253A393%26scaling%3Dscale-down" allowfullscreen></iframe>
 
 # Demo
->>>>>>> b4a782407679f5ba8c8f20498144da1bfca1f3a4
+
+> > > > > > > b4a782407679f5ba8c8f20498144da1bfca1f3a4
 
 # Conclusion
 
