@@ -19,15 +19,20 @@ To begin our user research, we conducted a short survey on smartphone screen tim
 The findings show a clear contrast on the user’s true desire, and what they actually do. For example, it is clear that people use their smartphone a lot. 80% of the respondents look at their phone multiple times per hour, and everyone who answered the survey looks at their phone multiple times per day. 
 
 ![alt text](https://raw.githubusercontent.com/MartensCedric/SOEN357-miniproject/gh-pages/images/survey_phone_frequency.png "Survey Phone Frequency")
+
 Despite using their phones a lot, 75% of the respondents think their phone usage is detrimental to their health. 
 
 ![alt text](https://raw.githubusercontent.com/MartensCedric/SOEN357-miniproject/gh-pages/images/survey_phone_productivity.png "Survey Phone Productivity")
+
 It has already been shown that screen usage time before bed is detrimental to sleep [SOURCE : https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5839336/]. Many social media apps also exhibit hyper addicting features to maximize the consumption of contents [source (find one)]. While most of this information is already known, people keep using screens excessively even if they are properly informed of the issues regarding their health.
 The following survey results show that the respondents want to exercise more, eat healthier and are motivated to pursue a healthier lifestyle.
 
 ![alt text](https://raw.githubusercontent.com/MartensCedric/SOEN357-miniproject/gh-pages/images/survey_healthy_lifestyle.png "Survey Healthy Lifestyle")
+
 ![alt text](https://raw.githubusercontent.com/MartensCedric/SOEN357-miniproject/gh-pages/images/survey_exercise.png "Survey Exercise")
+
 ![alt text](https://raw.githubusercontent.com/MartensCedric/SOEN357-miniproject/gh-pages/images/survey_eat_healthy.png "Survey Eat Healthy")
+
 ### Survey Conclusion
 It is clear that the respondent thinks that their phone is detrimental, yet they have shown to use it frequently. They have also responded that they want to eat better, exercise more and are motivated to live better. This shows that there is a market for phone addicted users that desire to improve their condition.
 
@@ -38,53 +43,65 @@ We drew inspiration from our survey results to create three personas.  Each pers
 
 ### Amelie Boisvert | Influence
 The first persona is named Amelie Boisvert.  She represents our younger demographic who is likely technically-inclined, but also very probably screen addicted.  Often screen use is an important means of socialization, self-expression, relaxation, working, etc…  So reducing screen usage can entail having to migrate to doing things “the old fashioned way” or to simply not doing them at all which can both be difficult.  But hey… “There's an app for that!”.  ScreenSardine presents the far less intimidating option of using your screen intelligently to break free from screen addiction.
+
 ![alt text](https://raw.githubusercontent.com/MartensCedric/SOEN357-miniproject/gh-pages/images/persona_amelie.png "Persona Amelie")
 
 ### Scott Peterson | Unemployed
 The second persona is named Scott Peterson.  He depicts someone who is severely screen addicted: their addiction being so serious it is a major contributing factor to his declining mental and physical health.  Gamification has made Scott addicted to playing video games.  Ironically, ScreenSardine will use this very thing to wean him off screen-use, and to improve his overall health.
+
 ![alt text](https://raw.githubusercontent.com/MartensCedric/SOEN357-miniproject/gh-pages/images/persona_scott.png "Persona Scott")
 
 ### Thomas Brown | Manager
 The final persona is named Thomas Brown. He also represents users who have mental and physical health problems.  The key difference being that these issues are deeper-seeded and are not directly caused by screen-use though he is a heavy screen user.  The main attraction ScreenSardine will present for this user group is that it is a Super App.  It nicely packages  tools to help with improving a multitude of aspects of personal health.
+
 ![alt text](https://raw.githubusercontent.com/MartensCedric/SOEN357-miniproject/gh-pages/images/persona_thomas.png "Persona Thomas")
 
 ## Empathy Map
 We created an empathy map in order to clarify the collective needs and pain points of our users by comparing what they say, think, do, and feel.  An interesting observation we made was the disparity between the users thoughts and actions. They want to sleep early, they want to be in shape, but they procrastinate, vegetate and pretend to be busy to others. This internal conflict is a negative emotional strain that likely creates stress.  This finding tells us that users need to break this mental disconnect by either setting more realistic expectations for themselves, or becoming more productive by reducing the time they procrastinate.
+
 ![alt text](https://raw.githubusercontent.com/MartensCedric/SOEN357-miniproject/gh-pages/images/empathy_map.png "Empathy Map")
 
 ## Journey Map
 We created a journey map in order to gain understanding of our user’s thoughts and emotions at different points in time of the adoption process.  The journey map demonstrates the process of how one of our archetypes, Amélie Boisvert transforms from having unhealthy screen time habits to adopting ScreenSardine.
+
 ![alt text](https://raw.githubusercontent.com/MartensCedric/SOEN357-miniproject/gh-pages/images/journey_map.png "Journey Map")
 
 ## Storyboard
 We created a storyboard so we could work through a personal development story-arc of our users. This allowed us to experiment with the way users would interact with the application and elaborate on how these interactions would affect them. For example, when their fish grows they feel motivated, when their fish die they feel regret, and when their fish reach adulthood they feel pride.
+
 ![alt text](https://raw.githubusercontent.com/MartensCedric/SOEN357-miniproject/gh-pages/images/storyboard.jpg "Storyboard")
 
 # Design Process
 ## User flow diagram
 The user flow diagram visually showcases the user flow for the main activities of the app, which are to set and complete goals while being able to view one’s progress.  The central page for the application is the fish tank view.  It acts as a central hub for accessing the other views (viewing goals, accessing user profile settings, etc…).  We designed the app’s navigation this way so as to improve findability: if the user wishes to find something, there is one central location to look for it.
+
 ![alt text](https://raw.githubusercontent.com/MartensCedric/SOEN357-miniproject/gh-pages/images/design_flow.jpg "User flow")
 
 ## Sketches
 The following sketches were designed as a very rough draft of the user interface during the design process, and were used as a guide to formulate the functionality of each of the main pages. Given that ScreenSardine is a super app in which different goals lead to different features, for the sake of brevity, only the meditation goal was modeled for the sketches and following prototypes. 
+
 ![alt text](https://raw.githubusercontent.com/MartensCedric/SOEN357-miniproject/gh-pages/images/sketches.png "Sketches")
 
 ## Wireframes
 Once we decided what we wanted on each page, we created wireframe diagrams to work out the finalized layout and dimension of these elements.  Our wireframes are ‘Hi-Fi’ wireframes, and quite closely resemble our final prototype besides the lack of colour and finalized typography.
+
 ![alt text](https://raw.githubusercontent.com/MartensCedric/SOEN357-miniproject/gh-pages/images/wireframes.jpg "Wireframes")
 
 ## Color Palette
 
 ### Initial Colors
 Colors were chosen to evoke a calming aquatic atmosphere. Initially, these colors were selected.
+
 ![alt text](https://raw.githubusercontent.com/MartensCedric/SOEN357-miniproject/gh-pages/images/colors_old.png "Old colors")
 
 ### Final colors
 The second color was changed to create a better contrast. We believe that the comfort and calmness of the colors remain unchanged.
+
 ![alt text](https://raw.githubusercontent.com/MartensCedric/SOEN357-miniproject/gh-pages/images/colors_new.png "New colors")
 
 ## Typography
 When selecting the font, we wanted to ensure cognitive fluency for the users. We did not want an exotic font. We wanted to evoke a calming familiarity.
+
 ![alt text](https://raw.githubusercontent.com/MartensCedric/SOEN357-miniproject/gh-pages/images/font_molengo.png "Molengo font")
 
 ## Final Design 
@@ -122,7 +139,10 @@ Our understanding of the problem and our research indicates that a market in nee
 
 # References
 [1] https://jamanetwork.com/journals/jama/article-abstract/2731178 
+
 [2] https://www.theladders.com/career-advice/11-apps-that-will-help-you-reduce-your-screen-time 
+
 [3] https://elitecontentmarketer.com/screen-time-statistics/#:~:text=A%20study%20of%2011k%20RescueTime,minutes%20on%20their%20mobile%20devices. 
+
 [4] https://ourworldindata.org/obesity
 
