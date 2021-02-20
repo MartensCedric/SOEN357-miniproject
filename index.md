@@ -93,8 +93,11 @@ The second color was changed to create a better contrast. We believe that the co
 ![alt text](https://raw.githubusercontent.com/MartensCedric/SOEN357-miniproject/gh-pages/images/colors_new.png "New colors")
 
 ## Typography
+When selecting the font, we wanted to ensure cognitive fluency for the users. We did not want an exotic font. We wanted to evoke a calming familiarity.
+![alt text](https://raw.githubusercontent.com/MartensCedric/SOEN357-miniproject/gh-pages/images/font_molengo.png "Molengo font")
 
 ## Final Design 
+
 # Demo
 
 # References
