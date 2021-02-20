@@ -1,3 +1,5 @@
+![](https://i.pinimg.com/originals/0b/a3/d6/0ba3d60362c7e6d256cfc1f37156bad9.jpg)
+
 # Introduction
 
 The recent rapid technological acceleration in the field of computing has rendered screen-use ubiquitous in everyday life. ScreenSardine’s purpose is to serve as a tool to rid users of their dependence on their computer devices while at the same time helping them invest in their greatest asset: their health.
