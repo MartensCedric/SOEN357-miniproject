@@ -156,7 +156,13 @@ From the goals page, a user can select a specific goal from the list which will 
 
 The following is a prototype of the meditate page, where a user can listen to audio files of meditation guides.
 
-# Demo
+# Demos
+
+## Demo Video
+
+## Live Demo
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FCowawrGre4rSoAMYQtp9NT%2FScreenSardine%3Fnode-id%3D78%253A393%26scaling%3Dscale-down" allowfullscreen></iframe>
 
 # Conclusion
 
