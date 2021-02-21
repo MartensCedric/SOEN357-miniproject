@@ -200,6 +200,6 @@ Our understanding of the problem and our research indicates that a market in nee
 
 [4] C. Montag, B. Lachmann, M. Herrlich, and K. Zweig, “Addictive Features of Social Media/Messenger Platforms and Freemium Games against the Background of Psychological and Economic Theories,” International journal of environmental research and public health, 23-Jul-2019. [Online]. Available: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6679162/. [Accessed: 14-Feb-2021]. 
 
-[5] https://elitecontentmarketer.com/screen-time-statistics/#:~:text=A%20study%20of%2011k%20RescueTime,minutes%20on%20their%20mobile%20devices.
+[5] R. Zalani, A. says, and Allaeddine, “Screen Time Statistics 2021: Your Smartphone Is Hurting You,” ECM, 25-Jan-2021. [Online]. Available: https://elitecontentmarketer.com/screen-time-statistics/#:~:text=A%20study%20of%2011k%20RescueTime,minutes%20on%20their%20mobile%20devices. [Accessed: 12-Feb-2021]. 
 
-[6]  https://www.theguardian.com/lifeandstyle/2019/aug/21/cellphone-screen-time-average-habits 
+[6]  “Shock! Horror! Do you know how much time you spend on your phone?,” The Guardian, 21-Aug-2019. [Online]. Available: https://www.theguardian.com/lifeandstyle/2019/aug/21/cellphone-screen-time-average-habits. [Accessed: 01-Feb-2021]. 
