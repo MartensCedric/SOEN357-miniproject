@@ -175,7 +175,10 @@ The following is a prototype of the meditate page, where a user can listen to au
 
 # Demos
 
-## Live Demo
+## Demo video
+<iframe src="https://drive.google.com/file/d/1qMFrroDTbUogWXg9fDZJkDXD3Cv0EZPf/preview" width="1080" height="720"></iframe>
+
+## Interactive Demo (Try it now!)
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="1080" height="720" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FCowawrGre4rSoAMYQtp9NT%2FScreenSardine%3Fnode-id%3D78%253A393%26scaling%3Dscale-down" allowfullscreen></iframe>
 
